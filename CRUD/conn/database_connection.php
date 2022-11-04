@@ -8,7 +8,4 @@ $database = "crud";
     if(!$conn){
         echo "Not able to connect with database";
     }
-    // else{
-    //     echo "Connection Established successfully";
-    // }
 ?>
